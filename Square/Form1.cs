@@ -81,7 +81,7 @@ namespace Square
                 false, false, false, false, true, true, true, 0, 0, false);
 
             // ======= Делаем вырез ========
-            swModel.Extension.SelectByID2("", "FACE", L / 2, M / 2, 0, false, 0, null, 0);
+            swModel.Extension.SelectByID2("", "FACE", L / 2, 0.001, 0, false, 0, null, 0);
             swModel.SketchManager.InsertSketch(true); //вставил эскиз в режиме редактирования 
             swModel.SketchManager.CreateCornerRectangle(-K / 2 + 0.035, 0.050, 0, K / 2, M, 0); // 35 50
             swModel.FeatureManager.FeatureCut3(true, false, false, 1, 0, 0.01, 0.01, false, false, false, false, 0, 0,
