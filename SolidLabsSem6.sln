@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "..\..\АПчхИ! будь здоров!\5_ApiSw_Exemples\3_ApiSw_3DMassive\Square\Square.csproj", "{95ABD0A4-8396-4864-B130-D44640421C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95ABD0A4-8396-4864-B130-D44640421C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ABD0A4-8396-4864-B130-D44640421C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ABD0A4-8396-4864-B130-D44640421C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ABD0A4-8396-4864-B130-D44640421C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA871AA1-6516-4381-B5CC-C91B0A48BBF1}
+	EndGlobalSection
+EndGlobal
